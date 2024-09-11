@@ -1,5 +1,5 @@
 # AvitoPars_Sel
-<<<<<<< HEAD
+
 Веб-парсер, написанный на Python с использованием библиотеки selenium_stealth
 =======
 
