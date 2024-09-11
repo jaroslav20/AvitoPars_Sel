@@ -1,0 +1,75 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+
+# IDEs and editors
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# Configuration files
+pars_urls.json
+
+#
+*.csv
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+htmlcov/
+
+# Mypy
+.mypy_cache/
+
+# Pytest
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Distribution / packaging
+*.dmg
+*.pkg
+*.tar.gz
+*.zip
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Misc
+*.DS_Store
+*.directory

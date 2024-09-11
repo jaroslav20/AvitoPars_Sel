@@ -1,0 +1,11 @@
+{
+  "selectors": {
+    "name": "[itemprop='name']",
+    "price": "[class='styles-module-root-bLKnd']",
+    "specific_params": "[data-marker='item-specific-params']",
+    "address": "[class='geo-root-zPwRk']",
+    "description": "[class='iva-item-descriptionStep-C0ty1']",
+    "date_published": "[data-marker='item-date']",
+    "url": "[data-marker='item-title']"
+  }
+}
